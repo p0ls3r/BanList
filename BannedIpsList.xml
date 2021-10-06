@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <BannedIpsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BannedAdresses>
-    <string>1.1.1.1</string>
+    <string>26.178.96.69</string>
   </BannedAdresses>
 </BannedIpsList>
